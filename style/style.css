@@ -93,3 +93,7 @@ h1 {
   min-width: 2em;
   max-width: 2em;
 }
+
+#answerSpot {
+  text-align: center;
+}
